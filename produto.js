@@ -1,7 +1,7 @@
 const produto = {
-    nome: "iphone 13 pro",
-    marca: "apple",
-    preco: 3500.00,
+    nome: " Samsung Galaxy A54 5G",
+    marca: "Smasung Galaxy",
+    preco: 2.499,
   };
   for ( let chave in produto ) {
     console.log(chave, produto[chave]);
